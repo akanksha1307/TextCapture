@@ -21,7 +21,8 @@ Working with OCR technology for the first time posed challenges in terms of unde
 Developing the backend in Node.js required addressing challenges related to routing, handling HTTP requests, and integrating with the Azure Storage and OCR services.
 
 **Component Tree Diagram**
-![Untitled-2023-10-29-1048](https://github.com/AKanksha-Adase/Extract-Text-FromI-mage-frontend/assets/85044429/ee2f2c55-acb2-40ca-b73c-5cfa80f54aa1)
+![image](https://github.com/user-attachments/assets/6fae43a9-40ec-4057-9d3b-67ad472ac5a8)
+
 
 # Technologies Used
 
