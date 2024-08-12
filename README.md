@@ -21,7 +21,7 @@ Working with OCR technology for the first time posed challenges in terms of unde
 Developing the backend in Node.js required addressing challenges related to routing, handling HTTP requests, and integrating with the Azure Storage and OCR services.
 
 **Component Tree Diagram**
-![Untitled-2023-10-29-1048](https://github.com/Hukumchand-Narwre/Extract-Text-FromI-mage-frontend/assets/85044429/ee2f2c55-acb2-40ca-b73c-5cfa80f54aa1)
+![Untitled-2023-10-29-1048](https://github.com/AKanksha-Adase/Extract-Text-FromI-mage-frontend/assets/85044429/ee2f2c55-acb2-40ca-b73c-5cfa80f54aa1)
 
 # Technologies Used
 
@@ -32,41 +32,3 @@ Developing the backend in Node.js required addressing challenges related to rout
 - **Azure OCR:** Azure OCR, or Optical Character Recognition, is a powerful tool for automatically converting images of text into machine-readable data.
   
 - **Express.js:** Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js
-
-## Local Installation Guide
-
-Follow these steps to set up the project on your local machine:
-
-- **Prerequisites -**
-Ensure you have Node.js installed:
-
-You can download and install Node.js from https://nodejs.org/
-
-**Installation steps**
-- **1. Clone the repository**
-```bash
-git clone https://github.com/Hukumchand-Narwre/TextCapture-Pro.git
-```
-- **2. Navigate to project directory**
-```bash
-cd TextCapture-Pro
-```
-- **3. Install dependencies**
-```bash
-npm install
-```
-- **4. Configure environment variables:**
-Create the .env file in root directory of the project  and create the following variables.
-```bash
-AZURE_KEY = 
-AZURE_ENDPOINT =
-
-AZURE_ENDPOINT_AI_LANGUAGE = 
-AZURE_KEY_AI_LANGUAGE = 
-```
-Update the variables with your keys.
-- **5. Run the project**
-```bash
- npm run dev
-```
-
